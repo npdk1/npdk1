@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Lua,Python,HTML,CSS**
 
-- 📄 Know about my experiences [Grade 12](Grade 12)
+- 📄 Know about my experiences : Grade 12
 
 - ⚡ Fun fact **Im A Shy Person**
 
