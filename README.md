@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Khoa,Pan Hub Moderator</h1>
+<h1 align="center">Hi 👋, I'm Khoa x Pan Hub Moderator</h1>
 <h3 align="center">A Beginner of Lua+Python Language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npdk1&label=Profile%20views&color=0e75b6&style=flat" alt="npdk1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=npdk1" alt="npdk1" /></a> </p>
 
-- 🔭 I’m currently A Moderator of [Pan Hub](https://discord.com/invite/Sh6kR2WQsb)
+- 🔭 I’m currently A Moderator of [Pan Hub](https://discord.com/invite/Sh6kR2WQsb)(A Roblox Script support Grand Piece Online,Anime Adventure,Bee Swarm....
 
 - 🌱 I’m currently learning **Lua,Python,HTML,CSS**
 
