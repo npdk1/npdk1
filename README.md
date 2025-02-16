@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khoa x Pan Hub Moderator</h1>
+<h1 align="center">Hi 👋, I'm Khoa x Snooze Hub Moderator</h1>
 <h3 align="center">A Beginner of Lua+Python Language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npdk1&label=Profile%20views&color=0e75b6&style=flat" alt="npdk1" /> </p>
