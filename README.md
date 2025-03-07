@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khoa x Snooze Hub Moderator</h1>
+<h1 align="center">Hi 👋, I'm Khoa a.k.a Khoa Bel</h1>
 <h3 align="center">A Beginner of Lua+Python Language</h3>
 
 
