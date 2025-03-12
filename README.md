@@ -26,7 +26,7 @@
 
   ## 💰 You can help me by Donating
   [![MBBANK](https://nganhangonline.net/wp-content/uploads/2021/07/mb-bank.jpg)](https://paypal.me/dangkhoa130207) 
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)]: 23130220071234
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](23130220071234)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
