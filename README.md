@@ -1,30 +1,45 @@
-<h1 align="center">Hi 👋, I'm Khoa a.k.a Khoa Bel</h1>
-<h3 align="center">I love code</h3>
+<p align = "center">
+<a href="https://github.com/SerenityEirlys](https://github.com/npdk1"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&center=true&vCenter=true&multiline=true&width=435&height=100&lines=Hi!+I+am+Eirlysmup.;Nice+to+meet+you!;Feel+free+to+check+out+my+projects!" alt="Typing SVG" /></a>
+</p>
+<h3 align="center">
+  Last updated: 3/5/2024
+</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=npdk1&label=Profile%20views&color=0e75b6&style=flat" alt="npdk1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=npdk1" alt="npdk1" /></a> </p>
-
-- 🔭 I’m currently A Moderator of [Snooze Universal](https://discord.com/invite/hkQgn9P2mM)(A Roblox Script support Grand Piece Online,Anime Adventure,..)
-
-- 🌱 I’m currently learning **Lua,Python,HTML,CSS**
-
-- 📄 Know about my experiences : Grade 12
-
-- ⚡ Fun fact **Im A Shy Person**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@npdk13/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@npdk13" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/invite/Sh6kR2WQsb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/Sh6kR2WQsb" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/SerenityEirlys"><img src = "https://streak-stats.demolab.com?user=SerenityEirlys&theme=dark&date_format=M%20j%5B%2C%20Y%5D", alt = "Github streak" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SerenityEirlys&theme=dark&layout=normal&size_weight=0.5&count_weight=0.5&langs_count=9&card_width=500", alt = "Top Languages" /></a>
+</p>
+    
+<p align = "center">
+  <a href="https://github.com/SerenityEirlys"><img src = "https://github-profile-trophy.vercel.app/?username=SerenityEirlys&column=4&theme=onestar", alt = "Github Trophy"></a>
+    </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=npdk1&show_icons=true&locale=en&layout=compact" alt="npdk1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=npdk1&show_icons=true&locale=en" alt="npdk1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npdk1&" alt="npdk1" /></p>
+<h2 align="center">Introduction</h2>
+
+<h4 align="center">
+  🔭 I'm currently working on nothing. Im just a regular relax
+</h4>
+<h4 align="center">
+  ❤️ Main languages:HTML, Javascript, C#
+</h4>
+<h4 align="center">
+  📫 How to reach me: <a href = "https://discord.gg/N77u5xTQ">Eirlysmup (Discord)</a> | <a href = "https://twitch.tv/SerenityEirlys">SerenityEirlys (Twitch)</a> | <a href = "https://youtube.com/@SerenityEirlys">SerenityEirlys (YouTube)</a>
+</h4>
+<h4 align="center">
+  😄 Pronouns: <a href = "https://pronouns.org/he-him">He/Him</a>
+</h4>
+<h4 align="center">
+  ⚡ Fun fact: I hate light mode.
+</h4>
+
+
+<h2 align="center">Socials</h2>
+<p align="center">
+  <a href="https://discordapp.com/users/822994305143668747"><img src = "https://lanyard.cnrad.dev/api/822994305143668747", alt = "Discord"></a>
+</p>
+
