@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love anime :3 .<br><br>🤝 Moderator in Snooze Hub .<br><br>📄 Know about my experiences : Grade 12 .
+🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love anime :3 .<br><br>🤝 Moderator in Snooze Hub .<br><br>📄 Know about my experiences : Nguyen Huu Cau Highschool , Grade 12 .
 
 
 ## 🌐 Socials:
