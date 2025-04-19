@@ -1,5 +1,6 @@
 # 💫 About Me:
 🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love anime :3 .<br><br>🤝 Organization : Owner of [DYS | Community](https://dys.community.nguyenphandangkhoa.site/)  x Moderator of [Roblox BManager](https://discord.gg/HbSyYx6X3M) (Roblox TrackStat) .<br><br>📄 Know about my experiences : Grade 12 ,Nguyen Huu Cau HighSchool.
+<img src="https://i.imgur.com/LXue1OS.png" alt="my sensei trackstat">
 
 
 ## 🌐 Socials:
