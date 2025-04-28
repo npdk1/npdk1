@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love code and anime :3 .<br><br>🤝 Organization : [Click Here To Join DYS | Community](https://dys.community.nguyenphandangkhoa.site/)  x [Roblox BManager](https://discord.gg/HbSyYx6X3M) (Roblox TrackStat) .<br><br>📄 Know about my experiences : Grade 12 ,Nguyen Huu Cau HighSchool.
+🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love code and anime :3 .<br><br>🤝 Organization : [Click Here To Join DYS | Community](https://dys.community.nguyenphandangkhoa.site/)  x [Roblox BManager](https://discord.gg/HbSyYx6X3M) (Roblox TrackStat) .<br><br>📄 Know about my experiences : Grade 12 , Skibidi HighSchool.
 <img src="https://raw.githubusercontent.com/npdk1/DYSCommunity/refs/heads/main/Picture/showcasefree.png" alt="Free DYS Tools">
 <img src="https://raw.githubusercontent.com/npdk1/DYSCommunity/refs/heads/main/Picture/showcasepro.png" alt="Paid DYS Tools">
 <img src="https://raw.githubusercontent.com/npdk1/DYSCommunity/refs/heads/main/DYSBackupPicture/dysshowcase.png" alt="Dys Community">
