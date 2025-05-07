@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love code and anime :3 .<br><br>🤝 Organization : [Click Here To Join DYS | Community](https://dys.community.nguyenphandangkhoa.site/)  x [Roblox BManager](https://discord.gg/HbSyYx6X3M) (Roblox TrackStat) .<br><br>📄 Know about my experiences : Grade 12 , Skibidi HighSchool.
-<img src="https://i.imgur.com/LXue1OS.png" alt="my sensei trackstat">
+<img src="https://raw.githubusercontent.com/npdk1/AkaoHub/refs/heads/main/DYSBackupPicture/tanjirogif.gif" alt="tanjiro gif">
 
 
 ## 🌐 Socials:
