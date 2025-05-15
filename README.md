@@ -1,5 +1,5 @@
 # 🎎 Welcome to npdk1's github profile 🎎
-<img src="https://raw.githubusercontent.com/npdk1/AkaoHub/refs/heads/main/DYSBackupPicture/tanjirogif.gif" alt="tanjiro gif">
+<img src="https://www.gifcen.com/wp-content/uploads/2022/03/tanjiro-gif-1.gif" alt="tanjiro gif">
 
 # 💫 About Me 💫
 🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love code and anime :3 .<br><br>🤝 Organization : [Click Here To Join DYS | Community](https://nguyenphandangkhoa.site/)  x [Roblox BManager](https://nguyenphandangkhoa.site/) (Roblox TrackStat) .<br><br>📄 Know about my experiences : Grade 12 , Skibidi HighSchool.
