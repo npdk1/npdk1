@@ -2,7 +2,11 @@
 <img src="https://www.gifcen.com/wp-content/uploads/2022/03/tanjiro-gif-3.gif" alt="tanjiro gif">
 
 # 💫 About Me 💫
-🔭 I will my best to be a perfect coder day by day<br><br>🌱 I’m currently learning .<br><br>🔥 I love code and anime :3 .<br><br>🤝 Organization : [Yoichi Hub](https://discord.gg/FPkXJu5qPY).<br><br>📄 Know about my experiences : Grade 12 , Skibidi HighSchool.
+🔭 I will my best to be a perfect coder day by day<br><br>
+🌱 I’m currently learning .<br><br>
+🔥 I love code and anime :3 .<br><br>
+🤝 Organization : [Yoichi Hub](https://discord.gg/FPkXJu5qPY).<br><br>
+📄 Know about my experiences : Grade 12 , Skibidi HighSchool.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/FPkXJu5qPY ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://discord.gg/FPkXJu5qPY) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@npdk13) 
 
