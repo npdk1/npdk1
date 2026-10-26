@@ -15,6 +15,6 @@ I code, eat, sleep, and game with friends, usually with anime or late-night musi
 ## Links
 
 - 🌐 **Bio** — [nguyenphandangkhoa.net](https://nguyenphandangkhoa.net/)
-- 🚀 **Projects** — [npdkproject.tech](https://www.npdkproject.tech/)
+- 🚀 **Project** — [npdkproject.tech](https://www.npdkproject.tech/)
 - 🎵 **Remix Music** — [Dropbox](https://www.dropbox.com/scl/fo/tubnc8yi5wx8vbgpx2129/AO4yIlcs-_aMYvm1l3qrZPA?rlkey=1cfqzkorae9xj54sqecz78tz7&st=jltfoj9m&dl=0)
-- 🎬 **Capcut** — [Dropbox](https://www.dropbox.com/scl/fo/sfi22aqkqrrzb51bnc334/AMdMmAXaYqG93XiCiq9bSWk?rlkey=buovpj44ruo6hyrebaeinyv8p&st=06lrtlsf&dl=0)
+- 🎬 **Gallery** — [Dropbox](https://www.dropbox.com/scl/fo/sfi22aqkqrrzb51bnc334/AMdMmAXaYqG93XiCiq9bSWk?rlkey=buovpj44ruo6hyrebaeinyv8p&st=06lrtlsf&dl=0)
